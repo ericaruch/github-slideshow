@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The eagle has no fear of adversity.
 Use the left arrow to go back!
